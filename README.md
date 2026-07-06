@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi!, I'm Ryan 👋
 
+## 🚀 關於我 (About Me)
+一個剛剛開始學習程式設計的學生，目前熱衷於探索新技術！
+* 技能競賽選手，目標是國手選拔
+* 我目前正在學習 **Visual Studio**
+* 我最近的目標是青少年組商務軟體設計全國前三
+
+## 🛠️ 技能專長 (Skills)
+* 目前只會C#，剛接觸coding不到一年
+
+## 🔗 聯絡我 (Contact)
+* **Email:** ryan1210.chiu@gmail.com
 <!--
 **ryanchiu-1210/ryanchiu-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
