@@ -31,4 +31,4 @@
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </p>
 
-[中文版個人簡介](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
+[中文版個人簡介](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/Chinese-README.md)
