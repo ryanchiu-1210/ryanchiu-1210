@@ -19,6 +19,18 @@
 * **Email:** ryan1210.chiu@gmail.com
 * **Discord:** ryanchiu1210.
 
+## contributions in the last year
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+</p>
+
 [English Version](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/EN-README.md)
 <!--
 **ryanchiu-1210/ryanchiu-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
