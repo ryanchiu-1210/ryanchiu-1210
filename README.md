@@ -19,10 +19,7 @@
 * **Email:** ryan1210.chiu@gmail.com
 * **Discord:** ryanchiu1210.
 
-[中文版個人簡介](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
-
-
-## Snake
+## contributions in the last year
 
 <p align="center">
   <picture>
@@ -33,3 +30,5 @@
   <br/>
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </p>
+
+[中文版個人簡介](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
