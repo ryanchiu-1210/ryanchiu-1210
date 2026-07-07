@@ -11,6 +11,7 @@
 
 ## 🔗 聯絡我 (Contact)
 * **Email:** ryan1210.chiu@gmail.com
+* **Discord:** ryanchiu1210.
 <!--
 **ryanchiu-1210/ryanchiu-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
