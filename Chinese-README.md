@@ -31,7 +31,7 @@
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </p>
 
-[English Version](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/EN-README.md)
+[English Version](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
 <!--
 **ryanchiu-1210/ryanchiu-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
