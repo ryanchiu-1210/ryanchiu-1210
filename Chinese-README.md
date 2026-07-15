@@ -18,6 +18,9 @@
 ## 🔗 聯絡我 
 * **Email:** ryan1210.chiu@gmail.com
 * **Discord:** ryanchiu1210.
+  
+## 📊 統計資訊
+<img src="https://github-readme-stats-six-omega-30.vercel.app/api/top-langs/?username=ryanchiu-1210&layout=compact&theme=radical&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=16"/>
 
 ## contributions in the last year
 
