@@ -3,7 +3,7 @@
 ## 🚀 Abount Me 
 * 15-year-old coding newbie who currently only writes giant piles of spaghetti code
 * Skills Competition competitor, aiming for the national team selection (which is kind of a big deal and super tough)
-* Currently learning Visual Studio and Kotlin
+* Currently learning C# and Kotlin
 
 ## 🛠️ Skills 
 * Currently only know C#, been coding with text-based languages for less than a year
