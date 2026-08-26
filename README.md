@@ -8,7 +8,8 @@
 ## 🛠️ Skills 
 * Currently only know C#, been coding with text-based languages for less than a year
 * Labview and Raspberry Pi knowledge has almost completely faded from my memory
-
+* ~~talking shit~~
+  
 ## 🏅 Competition Milestones
 * **Silver Medal** - IT Software Solutions for Business (Junior), 56th National Skills Competition
 * **Silver Medal** - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
