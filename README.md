@@ -1,4 +1,4 @@
-# Hi!, I'm Ryan 👋
+# Hi!, I'm Ryan
 
 ## 🚀 Abount Me 
 * 15-year-old coding newbie who currently only writes giant piles of spaghetti code
