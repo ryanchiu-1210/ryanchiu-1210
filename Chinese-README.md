@@ -1,4 +1,4 @@
-# Hi!, I'm Ryan 👋
+# Hi!, I'm Ryan
 
 ## 🚀 關於我 
 * 15歲剛接觸coding只寫得出一堆屎山
