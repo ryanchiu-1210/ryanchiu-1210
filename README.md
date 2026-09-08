@@ -4,6 +4,7 @@
 * 15-year-old coding newbie who currently only writes giant piles of spaghetti code
 * Skills Competition competitor, aiming for the national team selection (which is kind of a big deal and super tough)
 * Currently learning C# and Kotlin
+* My website (only chinese verison now)https://ryanchiu-1210.github.io/
 
 ## 🛠️ Skills 
 * Currently only know C#, been coding with text-based languages for less than a year
