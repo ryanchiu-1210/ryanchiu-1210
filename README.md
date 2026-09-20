@@ -16,6 +16,9 @@
 * **Silver Medal** - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
 * **Honorable Mention** - Autonomous Mobile Robotics (Junior), 55th National Skills Competition
 * **Bronze Medal** - Autonomous Mobile Robotics (Junior), 55th National Skills Competition - Northern Region
+
+## 🪪 Technician Certificate
+* Class **C** of Computer Software Design
   
 ## 🔗 Contact Me 
 * **Email:** ryan1210.chiu@gmail.com
