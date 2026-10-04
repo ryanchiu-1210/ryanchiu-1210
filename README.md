@@ -19,6 +19,7 @@
 
 ## 🪪 Technician Certificate
 * Class **C** of Computer Software Design
+* Class **C** of Computer Maintenance
   
 ## 🔗 Contact Me 
 * **Email:** ryan1210.chiu@gmail.com
